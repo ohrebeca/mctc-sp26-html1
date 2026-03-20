@@ -1,0 +1,62 @@
+body {
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-color: #fb8459;
+}
+
+h1
+{
+  font-family:Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    font-size: 72px;
+   color: #421010;
+}
+
+h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: #542727;
+    font-style: italic;
+    font-size: 24px;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #2e0b0b; 
+}
+
+p {
+    font-family: 'Cambria', 'Cochin', 'Georgia', 'Times', 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 16px;
+}
+
+img {
+   width: auto;
+   height: auto;
+   border-style: dotted;
+    border-width: 4px;
+    border-color: #149b69;
+}
+
+figcaption {
+    font-family: 'Palatino Linotype', 'Book Antiqua', 'Palatino', serif;
+    font-size: 20px;
+    line-height: 30px;
+    color: #491591;
+}
+
+ol {
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    font-size: 18px;
+    color: #1b1b1b;
+}
+
+ul {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #1b1b1b;
+}
+
+#tabbykitten {
+    width: 400px;
+    height: auto;
+}
